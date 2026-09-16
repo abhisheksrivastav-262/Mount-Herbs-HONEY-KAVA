@@ -43,7 +43,7 @@ header.site{position:sticky;top:0;z-index:60;background:rgba(250,246,236,.92);ba
 .mmenu a.mlink{display:block;padding:13px 6px;border-bottom:1px solid rgba(255,255,255,.1);font-weight:700;font-size:16px}
 .mmenu .btn{width:100%;margin-top:14px}
 /* hero */
-.hero{position:relative;overflow:hidden;background:radial-gradient(900px 500px at 85% 10%,rgba(201,162,39,.18),transparent),radial-gradient(700px 500px at 8% 20%,rgba(64,145,108,.18),transparent),linear-gradient(180deg,#faf6ec,#f1e8d2);padding:56px 0 70px}
+.hero{position:relative;overflow:hidden;background:linear-gradient(180deg,rgba(250,246,236,.94),rgba(250,246,236,.80)),radial-gradient(900px 500px at 85% 10%,rgba(201,162,39,.16),transparent),url('../assets/hero-bg.jpg') center/cover no-repeat;padding:56px 0 70px}
 .hero-grid{display:grid;grid-template-columns:1.05fr .95fr;gap:40px;align-items:center}
 .hero h1{font-size:clamp(44px,7vw,84px);letter-spacing:1px}
 .hero h1 span{color:var(--leaf);font-style:italic}
