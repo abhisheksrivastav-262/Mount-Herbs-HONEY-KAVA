@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 640" role="img" aria-label="Honey Kava Vedic Herbal Tea bottle by Mount Herbs">
+  <defs>
+    <linearGradient id="jar" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#f2e7cd"/></linearGradient>
+    <linearGradient id="lbl" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#12402a"/><stop offset="1" stop-color="#0b281b"/></linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#e9c767"/><stop offset="1" stop-color="#b98f1f"/></linearGradient>
+  </defs>
+  <rect x="0" y="0" width="500" height="640" rx="28" fill="#fbf5e6"/>
+  <ellipse cx="250" cy="560" rx="130" ry="22" fill="#0c2b1d" opacity=".12"/>
+  <!-- cap -->
+  <rect x="175" y="52" width="150" height="66" rx="14" fill="#0c2b1d"/>
+  <rect x="175" y="52" width="150" height="20" rx="10" fill="#1d4a32"/>
+  <!-- neck + jar -->
+  <rect x="160" y="118" width="180" height="30" rx="8" fill="#e8dcc0"/>
+  <rect x="110" y="148" width="280" height="392" rx="46" fill="url(#jar)" stroke="#d9c9a3" stroke-width="3"/>
+  <!-- honey glow -->
+  <ellipse cx="250" cy="440" rx="105" ry="90" fill="#e9a13b" opacity=".22"/>
+  <!-- label -->
+  <rect x="130" y="190" width="240" height="300" rx="22" fill="url(#lbl)"/>
+  <rect x="130" y="190" width="240" height="300" rx="22" fill="none" stroke="url(#gold)" stroke-width="4"/>
+  <text x="250" y="228" text-anchor="middle" font-family="Georgia" font-size="22" fill="#e9c767" letter-spacing="3">MOUNT HERBS</text>
+  <text x="250" y="272" text-anchor="middle" font-family="Georgia" font-size="40" font-weight="bold" fill="#ffffff">VEDIC</text>
+  <text x="250" y="312" text-anchor="middle" font-family="Georgia" font-size="42" font-weight="bold" fill="#e9c767">Honey Kava</text>
+  <rect x="165" y="326" width="170" height="30" rx="15" fill="url(#gold)"/>
+  <text x="250" y="347" text-anchor="middle" font-family="Verdana" font-size="17" font-weight="bold" fill="#0c2b1d">HERBAL TEA • 100 gm</text>
+  <text x="250" y="382" text-anchor="middle" font-family="Verdana" font-size="13" fill="#f3ead0">20+ Natural Ingredients</text>
+  <text x="250" y="404" text-anchor="middle" font-family="Verdana" font-size="11.5" fill="#cfc5a6">Relief from Cold • Sneezing • Cough</text>
+  <text x="250" y="422" text-anchor="middle" font-family="Verdana" font-size="11.5" fill="#cfc5a6">Digestion • Stress • Boosts Immunity*</text>
+  <text x="250" y="452" text-anchor="middle" font-family="Verdana" font-size="10" fill="#9db3a5">*As mentioned on product packaging</text>
+  <text x="250" y="600" text-anchor="middle" font-family="Verdana" font-size="12" fill="#5d6f64">Actual product photo: replace assets/product.svg with product.jpg</text>
+</svg>
