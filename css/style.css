@@ -161,7 +161,8 @@ footer a{display:block;padding:5px 0;font-size:14.5px;opacity:.85}footer a:hover
 .prod-card .row .btn{padding:11px 18px;font-size:13px}
 .step b.n{width:44px;height:44px;border-radius:100px;background:var(--deep);color:var(--gold2);display:inline-grid;place-items:center;font-family:var(--font-d);font-size:19px;margin-bottom:12px}
 @media(max-width:960px){
-  .hero-shade{background:linear-gradient(180deg,rgba(250,246,236,.88),rgba(250,246,236,.62))}
+  .hero-shade{background:linear-gradient(180deg,rgba(250,246,236,.78),rgba(250,246,236,.45))}
+  .hero h1,.hero-sub,.hero .lead,.hero .trust{text-shadow:0 1px 14px rgba(250,246,236,.95),0 0 4px rgba(250,246,236,.95)}
   .links{display:none}.hamburger{display:block}
   .hero-grid,.grid2,.pd-grid{grid-template-columns:1fr}
   .grid3,.gal{grid-template-columns:1fr 1fr}
